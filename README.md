@@ -14,7 +14,7 @@ Our project is divided into 2 segments:
 
 <h2 align= "left"><b>Have Fun With Our Product</b></h2>
 
-- Website Link : https://proctorhat.herokuapp.com/
+- Website Link : https://proctorhat.onrender.com/
 - Document Link : https://drive.google.com/file/d/1SWlv60Rtc5OZJLE9InSWxV--3PZrBjj1/view
 - Youtube Demo : https://youtu.be/xqUJ7gxj490
 
